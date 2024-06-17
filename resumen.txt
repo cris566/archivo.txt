@@ -1,0 +1,3 @@
+Resumen del conteo:
+Letras: 44
+Espacios: 10
